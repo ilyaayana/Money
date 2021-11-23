@@ -1,0 +1,4 @@
+﻿  Money.cpp
+C:\Users\Илья\source\repos\Money\Money\Money.cpp(14,86): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Илья\source\repos\Money\Money\Money.cpp(32,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Money.vcxproj -> C:\Users\Илья\source\repos\Money\Debug\Money.exe
